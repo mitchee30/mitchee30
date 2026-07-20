@@ -1,4 +1,4 @@
-<img width="1061" height="930" alt="profile-card" src="profile-card.png" />
+<img width="1061" height="930" alt="profile-card" src="profile-card_1.png" />
 
 <br>
 
