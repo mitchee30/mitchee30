@@ -1,4 +1,4 @@
-<img width="1061" height="930" alt="profile-card" src="<这里替换成拖图后生成的src链接>" />
+<img width="1061" height="930" alt="profile-card" src="profile-card.png" />
 
 <br>
 
