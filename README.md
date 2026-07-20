@@ -1,17 +1,14 @@
-<img width="1300" height="900" alt="readme_preview" src="https://github.com/user-attachments/assets/c55d2d19-3170-4c81-82d9-d3deefc4d0c0" />
-## Hi there 👋
+<img width="1061" height="930" alt="profile-card" src="<这里替换成拖图后生成的src链接>" />
 
-<!--
-**mitchee30/mitchee30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,linux,git,latex,matlab" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mitchee30&show_icons=true&theme=default&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchee30&layout=compact&theme=default" height="165" />
+</p>
